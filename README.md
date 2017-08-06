@@ -1,0 +1,1 @@
+# wordpress_hide_admin_bar_for_non-admins
