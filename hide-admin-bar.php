@@ -2,8 +2,7 @@
 /*
 Plugin Name: Hide Admin Bar from Non-Admins
 Description: This plugin hides the admin bar from your site for all non-Admin users.
-Text Domain: buddypress
-Domain Path: /languages
+
 Version: 1.0.1
 Author: Cristian Abello
 Author URI: mailto:cristian.abello@valpo.edu
